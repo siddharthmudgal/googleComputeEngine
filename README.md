@@ -1,4 +1,4 @@
-#Google cloud compute engine
+# Google cloud compute engine
 
 1. visit https://cloud.google.com
 	- click on try it free
@@ -18,7 +18,7 @@
 		- 20GB persistent disk should be enough (you can increase it if you want to)
 	- allow http and https traffic 
 
-##Setting up environment
+## Setting up environment
 1. Install java
 	install java
 	sudo apt-get install default-jre
